@@ -94,7 +94,7 @@ This analysis highlights critical trends and opportunities in the Athens Airbnb 
 3. **Targeted Marketing**
    - Leverage segmentation data to create personalized marketing campaigns.
   
-![Future Directions] (presentation-6.png)
+![Future Directions](presentation-6.png)
   
 ![Questions?](presentation-7.png)
   
