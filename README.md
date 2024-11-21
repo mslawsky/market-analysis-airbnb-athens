@@ -29,10 +29,14 @@ This analysis highlights critical trends and opportunities in the Athens Airbnb 
 1. **Pricing Trends Across Neighborhoods**
    - Identified significant pricing variations across key neighborhoods.  
    - Neighborhoods with average prices above market median are flagged as potential premium market opportunities.
+  
+![Visualization](presentation-4.png)
 
 2. **Geographical Concentrations**
    - High-density rental areas are mapped to identify underserved neighborhoods.  
    - Strategic growth opportunities exist in less saturated zones.
+
+![Visualization](presentation-5.png)
 
 3. **Market Segmentation**
    - Detailed segmentation enables stakeholders to align offerings with customer preferences, enhancing competitiveness.
@@ -72,9 +76,9 @@ This analysis highlights critical trends and opportunities in the Athens Airbnb 
 
 2. **Visualization Methods**
    - **Average Price Per Neighborhood**: Vertical bar chart highlighting pricing trends.  
-     ![Visualization](presentation-4.png)  
+     ![Visualization](average-price-per-neighborhood-vis.png)  
    - **Athens Rental Map**: Geographical distribution of rental properties.  
-     ![Visualization](presentation-5.png)
+     ![Visualization](athens-rental-map-vis.png)
 
 3. **Insights Presentation**
    - Interactive Tableau dashboards tailored for stakeholder engagement.
