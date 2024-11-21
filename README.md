@@ -11,7 +11,7 @@ This project conducts an in-depth analysis of Airbnb listings in Athens, transfo
 
 ## Executive Summary & Key Findings
 
-![Presentation Overview](presentation-1.jpg)  
+![Presentation Overview](presentation-1.png)  
 **[Full Presentation](https://www.beautiful.ai/player/-OCExbG8aww0lcAnqo3P)**
 
 ---
