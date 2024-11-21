@@ -9,6 +9,12 @@ This project conducts an in-depth analysis of Airbnb listings in Athens, transfo
 
 ---
 
+## Business Problem
+
+![Business Problem](presentation-2.png)
+
+---
+
 ## Executive Summary & Key Findings
 
 ![Presentation Overview](presentation-1.png)  
@@ -48,7 +54,8 @@ This analysis highlights critical trends and opportunities in the Athens Airbnb 
 - [Project Requirements](https://github.com/yourusername/market-analysis-airbnb-athens/raw/main/project-requirements-airbnb-athens.pdf) (PDF)  
 - [Dashboard Mockup](https://github.com/yourusername/market-analysis-airbnb-athens/raw/main/dashboard-mockup.pdf) (PDF) 
 
-### Data Files
+### Data Methods
+![Methods](presentation-3.png)
 
 📂 **Data Files**  
 - [Airbnb Data - Athens](https://github.com/yourusername/market-analysis-airbnb-athens/blob/main/athens-airbnb-data.csv)
@@ -65,9 +72,9 @@ This analysis highlights critical trends and opportunities in the Athens Airbnb 
 
 2. **Visualization Methods**
    - **Average Price Per Neighborhood**: Vertical bar chart highlighting pricing trends.  
-     ![Visualization](average-price-per-neighborhood-vis.png)  
+     ![Visualization](presentation-4.png)  
    - **Athens Rental Map**: Geographical distribution of rental properties.  
-     ![Visualization](athens-rental-map-vis.png)
+     ![Visualization](presentation-5.png)
 
 3. **Insights Presentation**
    - Interactive Tableau dashboards tailored for stakeholder engagement.
@@ -82,7 +89,13 @@ This analysis highlights critical trends and opportunities in the Athens Airbnb 
 
 3. **Targeted Marketing**
    - Leverage segmentation data to create personalized marketing campaigns.
-
+  
+![Future Directions] (presentation-6.png)
+  
+![Questions?](presentation-7.png)
+  
+   
+![Thank You!](presentation-8.png)
 ---
 
 ## Contact
