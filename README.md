@@ -53,10 +53,10 @@ This analysis highlights critical trends and opportunities in the Athens Airbnb 
 
 ### Business Intelligence Documents
 
-- [Strategy Document](https://github.com/mslawsky/market-analysis-airbnb-athens/raw/main/strategy-doc-athens-airbnb.pdf) (PDF)  
+- [Strategy Document](https://github.com/mslawsky/market-analysis-airbnb-athens/raw/main/strategy-doc-athens-airbnb.pdf) (PDF) 
 - [Stakeholder Requirements](https://github.com/mslawsky/market-analysis-airbnb-athens/raw/main/stakeholder-requirements-athens-airbnb.pdf) (PDF)  
 - [Project Requirements](https://github.com/msalwsky/market-analysis-airbnb-athens/raw/main/project-requirements-athens-airbnb.pdf) (PDF)  
-- [Dashboard Mockup](https://github.com/mslawsky/market-analysis-airbnb-athens/raw/main/dashboard-mockup-athens-airbnb.png) (PNG) 
+- [Dashboard Mockup](https://github.com/mslawsky/market-analysis-airbnb-athens/raw/main/dashboard-mockup-athens-airbnb.png) (Image) 
 
 ### Data Methods
 ![Methods](presentation-3.png)
