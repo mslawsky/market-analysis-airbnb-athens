@@ -1,7 +1,7 @@
 # Market Analysis - Airbnb Athens
 
 **Comprehensive Market Analysis for Strategic Decision-Making**  
-This project conducts an in-depth analysis of Airbnb listings in Athens, transforming raw data from multiple spreadsheets into interactive Tableau visualizations. The analysis offers strategicinsights on pricing trends and future opportunities, empowering data-driven decisions in the travel and hospitality industry.
+This project conducts an in-depth analysis of Airbnb listings in Athens, transforming raw data from multiple spreadsheets into interactive Tableau visualizations. The analysis offers strategic insights on pricing trends and future opportunities, empowering data-driven decisions in the travel and hospitality industry.
 
 ### [Live Visualizations](https://public.tableau.com/views/MarketAnalysis-AthensAirbnb/AveragePriceperNeighborhood?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
